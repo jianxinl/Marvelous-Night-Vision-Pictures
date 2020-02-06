@@ -23,3 +23,5 @@ What are you doing?
 I am taking Night Vision Pictures and found it really marvelous! 
 
 No one else is on the quiet street at the time of around 20:20 of 20200202, when Super Bowl LIV was just finished.
+
+Original night scene pictures taken using Night Vision Feature of a camera can be seen forwardrun.com/blog
