@@ -9,11 +9,11 @@ Walked nearby taking pictures using Moto z4, with its Flash Light off but Night 
 
 Wow! Surprisingly the night scene pictures rendered with Night Vision gave a great look.
 
-Unlike using Flash Light which may show every part of the scene clear, the night vision scene seems to have a smart light distributions: nearby bright mostly the focus you want to show, far-away dark mostly you want to avoid viewers' attention, showing a professionalism and an art touch.
+Unlike using Flash Light which may show every part of the scene clearly, scene seems to have a smart light distributions: nearby bright mostly the focus you want to show, far-away dark mostly you want to avoid viewers' attention, showing a professionalism and an art touch.
 
 These are night scene pictures of 20200202 at time around 20:20, with Night Vision Feature of the Moto z4 enabled, sky and trees far away are darker, nearby street and objects are brighter.
 
-It needs to "Hold Still" though when enabling Night Vision Feature, apparently needs much longer exposure time, may be also processing time, as it needs to recalculate the scene accoring to info getting from the infrare pictures by the Night Vision Feature and then present it in the normal visible light format.
+The night vision feature of camera uses Infrared Technology to get infrared info of the scene at night. Taking night scene pictures therefore needs to "Hold Still" when enabling Night Vision Feature, apparently needs much longer exposure time, may be also processing time, as it needs to recalculate the scene accoring to info getting from the infrare pictures by the Night Vision Feature and then present it in the normal visible light format.
 
 Very quiet and beautiful night scene Pictures at around time of 20:20 on palindrome 20200202.
 
@@ -23,4 +23,3 @@ What are you doing?
 I am taking Night Vision Pictures and found it really marvelous! 
 
 No one else is on the quiet street at the time of around 20:20 of 20200202, when Super Bowl LIV was just finished.
-
