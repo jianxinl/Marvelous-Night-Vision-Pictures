@@ -3,7 +3,7 @@
 
 ### Spread the Word that Night Vision Feature renders much wonderful pictures than daylight and flash light illuminated ones.
 
-###### 20200202, a palindrome appearing in about a thousand year interval, also suitable for different calendar expressions: Y/M/D, M/D/Y, or D/M/Y.
+#### 20200202, a palindrome appearing in about a thousand year interval, also suitable for different calendar expressions: Y/M/D, M/D/Y, or D/M/Y.
 
 A friend of mine suggested taking night scene pictures at time of 20:20 on 20200202 to remember It.
 
