@@ -21,8 +21,8 @@
 ![github-large](https://github.com/jianxinl/Marvelous-Night-Vision-Pictures/blob/master/20200202-9.jpg)
 ![github-large](https://github.com/jianxinl/Marvelous-Night-Vision-Pictures/blob/master/20200202-90.jpg)
 
-#### Raising head, Ah! A half moon hanging above, is looking down at me, like curiously wanting to know: 
 #### No one else is on the quiet street at the time of around 20:20 of 20200202, when Super Bowl LIV was just finished.
+#### Raising head, Ah! A half moon hanging above, is looking down at me, like curiously wanting to know: 
 #### *What are you doing?*
 #### *I am taking Night Vision Pictures and found it really marvelous!*
 ![github-large](https://github.com/jianxinl/Marvelous-Night-Vision-Pictures/blob/master/20200202-91.jpg)
