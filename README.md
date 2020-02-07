@@ -26,7 +26,6 @@
 #### *I am taking Night Vision Pictures and found it really marvelous!*
 
 #### No one else is on the quiet street at the time of around 20:20 of 20200202, when Super Bowl LIV was just finished.
-
-<img src="https://github.com/jianxinl/Marvelous-Night-Vision-Pictures/blob/master/20200202-3.jpg">
+![github-large](https://github.com/jianxinl/Marvelous-Night-Vision-Pictures/blob/master/20200202-91.jpg)
 **Spread the Word that Night Vision Feature renders much wonderful pictures than daylight and flash light illuminated ones.**
 **Original night scene pictures taken using Night Vision Feature of a camera can be seen in [forwardrun.com/blog](https://forwardrun.com/blog)**
