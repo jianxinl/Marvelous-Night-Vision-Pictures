@@ -2,9 +2,6 @@
 
 ## At the night of 20200202, taking pictures using a night vision feature camera, wow! So surprisingly beautiful! 
 
-
-### Spread the Word that Night Vision Feature renders much wonderful pictures than daylight and flash light illuminated ones.
-
 #### 20200202, a palindrome appearing in about a thousand year interval, also suitable for different calendar expressions: Y/M/D, M/D/Y, or D/M/Y.
 
 
@@ -34,4 +31,6 @@
 
 #### No one else is on the quiet street at the time of around 20:20 of 20200202, when Super Bowl LIV was just finished.
 ![github-large](https://github.com/jianxinl/Marvelous-Night-Vision-Pictures/blob/master/20200202-91.jpg)
+
+### Spread the Word that Night Vision Feature renders much wonderful pictures than daylight and flash light illuminated ones.
 ## Original night scene pictures taken using Night Vision Feature of a camera can be seen in [forwardrun.com/blog](https://forwardrun.com/blog)
